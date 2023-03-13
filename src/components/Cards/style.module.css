@@ -1,0 +1,17 @@
+.cardo {
+  background-color: #333 !important;
+  color: whitesmoke;
+  padding: 10;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0 8px 240px;
+}
+
+.contentT {
+  padding: 0 0 20px;
+}
+
+.status {
+  margin-bottom: px;
+}
